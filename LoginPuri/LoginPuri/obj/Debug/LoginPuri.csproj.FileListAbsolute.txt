@@ -1,0 +1,11 @@
+C:\Users\Puri\source\repos\LoginPuri\LoginPuri\bin\Debug\LoginPuri.exe.config
+C:\Users\Puri\source\repos\LoginPuri\LoginPuri\bin\Debug\LoginPuri.exe
+C:\Users\Puri\source\repos\LoginPuri\LoginPuri\bin\Debug\LoginPuri.pdb
+C:\Users\Puri\source\repos\LoginPuri\LoginPuri\obj\Debug\LoginPuri.csproj.AssemblyReference.cache
+C:\Users\Puri\source\repos\LoginPuri\LoginPuri\obj\Debug\LoginPuri.FrmLogin.resources
+C:\Users\Puri\source\repos\LoginPuri\LoginPuri\obj\Debug\LoginPuri.frmMenu.resources
+C:\Users\Puri\source\repos\LoginPuri\LoginPuri\obj\Debug\LoginPuri.Properties.Resources.resources
+C:\Users\Puri\source\repos\LoginPuri\LoginPuri\obj\Debug\LoginPuri.csproj.GenerateResource.cache
+C:\Users\Puri\source\repos\LoginPuri\LoginPuri\obj\Debug\LoginPuri.csproj.CoreCompileInputs.cache
+C:\Users\Puri\source\repos\LoginPuri\LoginPuri\obj\Debug\LoginPuri.exe
+C:\Users\Puri\source\repos\LoginPuri\LoginPuri\obj\Debug\LoginPuri.pdb
